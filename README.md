@@ -8,4 +8,4 @@ check out the code feel free to contribute and let this project grow
 Using colored blocks, lights, and sounds as directional prompts, the Simon game engages cognitive function that works on sequential processing, short-term memory, attention and visual processing.
 
 
-Feel free to contribute 
+Feel free to contribute  
